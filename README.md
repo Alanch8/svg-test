@@ -2,8 +2,8 @@
   <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-    <img src="gist.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://gist.github.com/Alanch8/841aaad9de838330a8b7923d3c773c24">
+    <img src="gist.svg" style="width: 100%;" alt="gist-not-found">
   </a>
 </div>
 
